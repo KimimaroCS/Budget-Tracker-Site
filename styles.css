@@ -72,6 +72,12 @@ button:hover {
     background: #f9f9f9;
 }
 
+.subscription-logo {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
 canvas {
     margin-top: 2rem;
     max-width: 100%;
